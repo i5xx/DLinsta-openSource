@@ -1,0 +1,9 @@
+Package: com.dlinsta.tweak
+Name: DLInsta
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Instagram photo/video downloader (reconstructed)
+Maintainer: DLInsta
+Author: DLInsta
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
